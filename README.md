@@ -6,6 +6,8 @@
 
 对于翻译文本，提供三项数据：`key`,`src`,`target`，分别表示：`游戏内的键`,`原文`,`译文`
 
+一个使用本仓库训练的模型：[Minecraft-Transfomer](https://github.com/zigerZZZ/Minecraft-Transfomer)
+
 # 训练数据与测试数据
 
 提供共计`522046`条平行预料，其中`test.csv`包含`10000`条数据，`train.csv`包含`512046`条数据。
